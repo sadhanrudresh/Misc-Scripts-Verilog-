@@ -1,0 +1,37 @@
+input                            port0;            //COMMENT0
+input                            port1;          //COMMENT1
+input                            port2;            //COMMENT2
+input  [PORT_WIDTH-1:0]           port3;       //COMMENT3
+input  [PORT_WIDTH-1:0]           port4;       //COMMENT4
+input                            port5;         //COMMENT5
+input  [PORT_WIDTH-1:0]               port6;           //COMMENT6
+output                           port7;       //COMMENT7
+output                           port8;    //COMMENT8
+output                           port9;      //COMMENT9
+output [PORT_WIDTH-1:0]  port10;  //COMMENT10
+output [PORT_WIDTH-1:0]           port11;       //COMMENT11
+output                           port12;     //COMMENT12
+output                           port13;          //COMMENT13
+output                           port14;   //COMMENT14
+output                           port15;      //COMMENT15
+output                           port16;    //COMMENT16
+output                           port17;           //COMMENT17
+output                           port18;          //COMMENT18
+input                            port19;            //COMMENT19
+input                            port20;          //COMMENT20
+input                            port21;            //COMMENT21
+input  [PORT_WIDTH-1:0]  port22;       //COMMENT22
+input  [PORT_WIDTH-1:0]  port23;       //COMMENT23
+input                            port24;          //COMMENT24
+output                           port25;       //COMMENT25
+output                           port26;    //COMMENT26
+output                           port27;      //COMMENT27
+wire                             port28;       //COMMENT28
+output [PORT_WIDTH-1:0]               port29;           //COMMENT29
+output [PORT_WIDTH-1:0]  port30;       //COMMENT30
+output                           port31;          //COMMENT31
+output                           port32;   //COMMENT32
+output                           port33;      //COMMENT33
+output                           port34;    //COMMENT34
+output                           port35;           //COMMENT35
+output                           port36;          //COMMENT36
